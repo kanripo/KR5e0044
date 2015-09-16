@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:09:02.612268
 #+TITLE: 漸悟集
-#+DATE: 2015-08-29 02:09:06
+#+PROPERTY: DZID  DZ1142
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，25—454 二卷 太平部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
