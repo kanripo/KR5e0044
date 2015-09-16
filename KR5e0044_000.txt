@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 漸悟集
+#+DATE: 2015-08-29 02:09:06
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
